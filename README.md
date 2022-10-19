@@ -32,7 +32,7 @@ Skills used:
 * Aggregate Functions 
 * Creating Views
 
-To view and interact with the Tableau Dashboard, click the link: https://public.tableau.com/app/profile/abdulhafiz.umar.dabo/viz/COVID-19Analysis_16660920332030/COVID-19Dashboard?publish=yes
+To view and interact with the Tableau Dashboard, click the link: https://public.tableau.com/app/profile/abdulhafiz.umar.dabo/viz/COVID-19Analysis_16660920332030/COVID-19Dashboard?publish=yes. You can also view my other Tableau projects here: https://public.tableau.com/app/profile/abdulhafiz.umar.dabo
 
 ## Contact:
 
